@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opencv-tower-unite", "opencv-tower-unite\opencv-tower-unite.vcxproj", "{4072D77A-FBA8-4481-ADCD-6BD8B3AB9240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4072D77A-FBA8-4481-ADCD-6BD8B3AB9240}.Debug|x64.ActiveCfg = Debug|x64
+		{4072D77A-FBA8-4481-ADCD-6BD8B3AB9240}.Debug|x64.Build.0 = Debug|x64
+		{4072D77A-FBA8-4481-ADCD-6BD8B3AB9240}.Debug|x86.ActiveCfg = Debug|Win32
+		{4072D77A-FBA8-4481-ADCD-6BD8B3AB9240}.Debug|x86.Build.0 = Debug|Win32
+		{4072D77A-FBA8-4481-ADCD-6BD8B3AB9240}.Release|x64.ActiveCfg = Release|x64
+		{4072D77A-FBA8-4481-ADCD-6BD8B3AB9240}.Release|x64.Build.0 = Release|x64
+		{4072D77A-FBA8-4481-ADCD-6BD8B3AB9240}.Release|x86.ActiveCfg = Release|Win32
+		{4072D77A-FBA8-4481-ADCD-6BD8B3AB9240}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0F9BB4E-1089-4A4D-9F71-97D1FC33692F}
+	EndGlobalSection
+EndGlobal
